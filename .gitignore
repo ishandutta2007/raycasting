@@ -1,0 +1,10 @@
+# Compiled binaries excluding WASM
+obj/
+debug/
+build/
+
+# Python scripting environment
+.penv/
+
+# preprocessed images
+src/texture_*
